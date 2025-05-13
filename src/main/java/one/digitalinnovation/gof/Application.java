@@ -10,6 +10,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  * - Spring Data JPA
  * - Spring Web
  * - H2 Database
+ * - OpenFeign
  * 
  * @author falvojr
  */
